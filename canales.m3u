@@ -1,23 +1,36 @@
 #EXTM3U
 #EXTINF: -1, Universal Channel
-https://ul.cdn946.net:8443/hls/p3ii4md9.m3u8?s=XmcLCmGXmb1QoYniJ51QNw&e=1597870467
+https://ul.cdn946.net:8443/hls/p3ii4md9.m3u8?s=v5R4kmoQ4FOzImQFscNkCg&e=1598048997
 
 #EXTINF: -1, TNT
-https://ul.cdn946.net:8443/hls/14zot7ix1j24gn6.m3u8?s=_euM_fn6xtlASrIdmEPgQg&e=1597870573
+https://ul.cdn946.net:8443/hls/14zot7ix1j24gn6.m3u8?s=bUjFa4Ko5ACIObp5nso87w&e=1598049064
 
 #EXTINF: -1, HBO
-https://u65464.cdn884.net:8443/hls/liqi158i6t.m3u8?s=LKK4U17liqJ8oSGcHt99Fg&e=1597870671
+https://ul.cdn946.net:8443/hls/liqi158i6t.m3u8?s=XLFvTB5y7onrPL0oD4_7yQ&e=1598049103
 
 #EXTINF: -1,Disney XD
 https://u65464.cdn884.net:8443/hls/s40z6ckg.m3u8?s=JpghlegJi_vV5Fvn1TT3Rw&e=1597870665
 
 #EXTINF: -1, History
-https://ul.cdn946.net:8443/hls/sl7lltju7plx.m3u8?s=AqAXg3e0NhijySi8_MA4oA&e=1597871033
+https://u73165.cdn884.net:8443/hls/sl7lltju7plx.m3u8?s=51EdWLRe1BlfJTpNNyd8sg&e=1598049414
 
 #EXTINF: -1, HBO 2
-https://ul.cdn946.net:8443/hls/w4r75r3i9.m3u8?s=6D5hjmHOZ4NkZywUPVEctQ&e=1597871142
+https://ul.cdn946.net:8443/hls/w4r75r3i9.m3u8?s=KByXuelFvCZ74YWHG7aE0Q&e=1598049134
 
 #EXTINF: -1, CINEMAX
-https://ul.cdn946.net:8443/hls/ymalkyu.m3u8?s=4VxAShgvV-D-5jzUcPypzg&e=1597871188
+https://ul.cdn946.net:8443/hls/ymalkyu.m3u8?s=NuRioQNj-u5OLc2CbZD_dw&e=1598049186
 
-#EXTINF: -1,
+#EXTINF: -1, FOX
+https://ul.cdn946.net:8443/hls/esoncv2554uj4x.m3u8?s=px0TrzYC-ystlfTTNwyX8A&e=1598049236
+
+#EXTINF: -1, Space
+https://ul.cdn946.net:8443/hls/ahd138j5ou0819g.m3u8?s=xUr5vCSvG_HxxMP0qsvJkQ&e=1598049502
+
+#EXTINF: -1, A&E
+https://ul.cdn946.net:8443/hls/ki4gdapom.m3u8?s=bx1vWtzPBUEEeb4xgJ5tPQ&e=1598049590
+
+#EXTINF: -1, FXM
+https://u73165.cdn884.net:8443/hls/5zqccrm.m3u8?s=rz5VoU7JHrim2lxk6rGeow&e=1598049596
+
+#EXTINF: -1, Discovery Turbo
+https://u86715.cdn884.net:8443/hls/dsnb3fsix7.m3u8?s=u4QPrlp_0kC7yGqyD-udWg&e=1598049692
